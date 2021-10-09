@@ -1409,11 +1409,11 @@ footer .container .social-icons i {
   font-size: 20px;
   line-height: 50px;
   color: var(--mainColor);
-  transition: var(--animation-timing) linear;
-  -webkit-transition: var(--animation-timing) linear;
-  -moz-transition: var(--animation-timing) linear;
-  -ms-transition: var(--animation-timing) linear;
-  -o-transition: var(--animation-timing) linear;
+  transition: 0.2s linear;
+  -webkit-transition: 0.2s linear;
+  -moz-transition: 0.2s linear;
+  -ms-transition: 0.2s linear;
+  -o-transition: 0.2s linear;
 }
 
 footer .container .social-icons a:hover i {
